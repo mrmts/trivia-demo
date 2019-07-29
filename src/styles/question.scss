@@ -1,0 +1,41 @@
+.question {
+  margin: 0 auto;
+  width: 70%;
+  h2 {
+    margin-top: 2rem;
+    font-size: 3rem;
+    text-align: center;
+  }
+  .answers {
+    margin-top: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    .answer {
+      cursor: pointer;
+      padding: 2rem;
+      margin: 1rem;
+      border-radius: 1rem;
+      background: #eee;
+      border: 3px solid #eee;
+      box-shadow: 0 10px 20px -17px #bbb;
+      flex: 1 0 calc(30%);
+      font-size: 2rem;
+      text-align: center;
+      &:hover {
+        background-color: rgb(216, 77, 114);
+        color: #fff;
+      }
+      &.selected {
+        border-color: #000;
+      }
+      &.correct {
+        color: #fff;
+        background-color: #84b523;
+      }
+      &.wrong {
+        color: #fff;
+        background-color: rgb(199, 36, 66);
+      }
+    }
+  }
+}
