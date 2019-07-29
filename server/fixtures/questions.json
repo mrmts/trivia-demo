@@ -1,0 +1,1178 @@
+[  
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+    "correct_answer":"Bulldog",
+    "incorrect_answers":[  
+        "Yorkshire Terrier",
+        "Boxer",
+        "Pug"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+    "correct_answer":"Wales",
+    "incorrect_answers":[  
+        "Moldova",
+        "Czech Republic",
+        "Denmark"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"What is the most common surname Wales?",
+    "correct_answer":"Jones",
+    "incorrect_answers":[  
+        "Williams",
+        "Davies",
+        "Evans"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"What alcoholic drink is made from molasses?",
+    "correct_answer":"Rum",
+    "incorrect_answers":[  
+        "Gin",
+        "Vodka",
+        "Whisky"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+    "correct_answer":"Government",
+    "incorrect_answers":[  
+        "Going",
+        "Ghost",
+        "Geronimo"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+    "correct_answer":"India",
+    "incorrect_answers":[  
+        "Papua New Guinea",
+        "Ethiopia",
+        "China"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What is a &quot;dakimakura&quot;?",
+    "correct_answer":"A body pillow",
+    "incorrect_answers":[  
+        "A Chinese meal, essentially composed of fish",
+        "A yoga posture",
+        "A word used to describe two people who truly love each other"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Who is a co-founder of music streaming service Spotify?",
+    "correct_answer":"Daniel Ek",
+    "incorrect_answers":[  
+        "Sean Parker",
+        "Felix Miller",
+        "Michael Breidenbruecker"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer":"Bullfighting",
+    "incorrect_answers":[  
+        "Fiestas",
+        "Flamenco",
+        "Mariachi"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+    "correct_answer":"Shiatsu",
+    "incorrect_answers":[  
+        "Ukiyo",
+        "Majime",
+        "Ikigai"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What is the German word for &quot;spoon&quot;?",
+    "correct_answer":"L&ouml;ffel",
+    "incorrect_answers":[  
+        "Gabel",
+        "Messer",
+        "Essst&auml;bchen"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What is the romanized Russian word for &quot;winter&quot;?",
+    "correct_answer":"Zima",
+    "incorrect_answers":[  
+        "Leto",
+        "Vesna",
+        "Osen&#039;"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What is a dead mall?",
+    "correct_answer":"A mall with high vacancy rates or low consumer foot traffic",
+    "incorrect_answers":[  
+        "A mall with no stores",
+        "A mall that has been condemed",
+        "A mall after business hours"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "correct_answer":"1 Month",
+    "incorrect_answers":[  
+        "3 Weeks",
+        "1 Week",
+        "2 Months"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What direction does the Statue of Liberty face?",
+    "correct_answer":"Southeast",
+    "incorrect_answers":[  
+        "Southwest",
+        "Northwest",
+        "Northeast"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What was Mountain Dew&#039;s original slogan?",
+    "correct_answer":"Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+    "incorrect_answers":[  
+        "Give Me A Dew",
+        "Do The Dew",
+        "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Which of the following card games revolves around numbers and basic math?",
+    "correct_answer":"Uno",
+    "incorrect_answers":[  
+        "Go Fish",
+        "Twister",
+        "Munchkin"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Earl Grey tea is black tea flavoured with what?",
+    "correct_answer":"Bergamot oil",
+    "incorrect_answers":[  
+        "Lavender",
+        "Vanilla",
+        "Honey"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which of these words means &quot;idle spectator&quot;?",
+    "correct_answer":"Gongoozler",
+    "incorrect_answers":[  
+        "Gossypiboma",
+        "Jentacular",
+        "Meupareunia"
+    ]
+  },
+  {  
+    "category":"General Knowledge",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Which candy is NOT made by Mars?",
+    "correct_answer":"Almond Joy",
+    "incorrect_answers":[  
+        "M&amp;M&#039;s",
+        "Twix",
+        "Snickers"
+    ]
+  },
+  {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Who painted the Mona Lisa?",
+    "correct_answer":"Leonardo da Vinci",
+    "incorrect_answers":[  
+       "Pablo Picasso",
+       "Claude Monet",
+       "Vincent van Gogh"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+    "correct_answer":"Neoplasticism",
+    "incorrect_answers":[  
+       "Precisionism",
+       "Cubism",
+       "Impressionism"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+    "correct_answer":"2\/2",
+    "incorrect_answers":[  
+       "4\/4",
+       "6\/8",
+       "3\/4"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Who painted the Sistine Chapel?",
+    "correct_answer":"Michelangelo",
+    "incorrect_answers":[  
+       "Leonardo da Vinci",
+       "Pablo Picasso",
+       "Raphael"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"What French sculptor designed the Statue of Liberty? ",
+    "correct_answer":"Fr&eacute;d&eacute;ric Auguste Bartholdi",
+    "incorrect_answers":[  
+       "Jean-L&eacute;on G&eacute;r&ocirc;me",
+       "Auguste Rodin",
+       "Henri Matisse"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+    "correct_answer":"Andy Warhol",
+    "incorrect_answers":[  
+       "Roy Lichtenstein",
+       "David Hockney",
+       "Peter Blake"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What nationality was the surrealist painter Salvador Dali?",
+    "correct_answer":"Spanish",
+    "incorrect_answers":[  
+       "Italian",
+       "French",
+       "Portuguese"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
+    "correct_answer":"N&uuml;rnberg",
+    "incorrect_answers":[  
+       "Augsburg",
+       "Bamberg",
+       "Berlin"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+    "correct_answer":"1502",
+    "incorrect_answers":[  
+       "1702",
+       "1402",
+       "1602"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"What year was the Mona Lisa finished?",
+    "correct_answer":"1504",
+    "incorrect_answers":[  
+       "1487",
+       "1523",
+       "1511"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+    "correct_answer":"Salvador Dali",
+    "incorrect_answers":[  
+       "Jackson Pollock",
+       "Vincent van Gogh",
+       "Edgar Degas"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which one of these paintings is not by Caspar David Friedrich?",
+    "correct_answer":"The Black Sea",
+    "incorrect_answers":[  
+       "The Sea of Ice",
+       "Wanderer above the Sea of Fog",
+       "The Monk by the Sea"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which of these are the name of a famous marker brand?",
+    "correct_answer":"Copic",
+    "incorrect_answers":[  
+       "Dopix",
+       "Cofix",
+       "Marx"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Which artist&#039;s style was to use small different colored dots to create a picture?",
+    "correct_answer":"Georges Seurat",
+    "incorrect_answers":[  
+       "Paul C&eacute;zanne",
+       "Vincent Van Gogh",
+       "Henri Rousseau"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"Which of these is not an additional variation of the color purple?",
+    "correct_answer":"Kobicha",
+    "incorrect_answers":[  
+       "Byzantium",
+       "Pomp and Power",
+       "Palatinate"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"hard",
+    "question":"How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+    "correct_answer":"4",
+    "incorrect_answers":[  
+       "1",
+       "3",
+       "2"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"Who designed the Chupa Chups logo?",
+    "correct_answer":"Salvador Dali",
+    "incorrect_answers":[  
+       "Pablo Picasso",
+       "Andy Warhol",
+       "Vincent van Gogh"
+    ]
+ },
+ {  
+    "category":"Art",
+    "type":"multiple",
+    "difficulty":"easy",
+    "question":"Who painted The Starry Night?",
+    "correct_answer":"Vincent van Gogh",
+    "incorrect_answers":[  
+       "Pablo Picasso",
+       "Leonardo da Vinci",
+       "Michelangelo"
+    ]
+ },
+ {  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which element has the chemical symbol &#039;Fe&#039;?",
+  "correct_answer":"Iron",
+  "incorrect_answers":[  
+     "Gold",
+     "Silver",
+     "Tin"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"What name is given to all baby marsupials?",
+  "correct_answer":"Joey",
+  "incorrect_answers":[  
+     "Calf",
+     "Pup",
+     "Cub"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"What is the elemental symbol for mercury?",
+  "correct_answer":"Hg",
+  "incorrect_answers":[  
+     "Me",
+     "Mc",
+     "Hy"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What mineral has the lowest number on the Mohs scale?",
+  "correct_answer":"Talc",
+  "incorrect_answers":[  
+     "Quartz",
+     "Diamond",
+     "Gypsum"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which chemical element has the lowest boiling point?",
+  "correct_answer":"Helium",
+  "incorrect_answers":[  
+     "Hydrogen",
+     "Neon",
+     "Nitrogen"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"What is the standard SI unit for temperature?",
+  "correct_answer":"Kelvin",
+  "incorrect_answers":[  
+     "Fahrenheit",
+     "Celsius",
+     "Rankine"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which element has the atomic number of 7?",
+  "correct_answer":"Nitrogen",
+  "incorrect_answers":[  
+     "Oxygen",
+     "Hydrogen",
+     "Neon"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+  "correct_answer":"2",
+  "incorrect_answers":[  
+     "0",
+     "1",
+     "5"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"Which horizon in a soil profile consists of bedrock?",
+  "correct_answer":"R",
+  "incorrect_answers":[  
+     "O",
+     "B",
+     "D"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Where did the dog breed &quot;Chihuahua&quot; originate?",
+  "correct_answer":"Mexico",
+  "incorrect_answers":[  
+     "France",
+     "Spain",
+     "Russia"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"Which is not a type of neuron?",
+  "correct_answer":"Perceptual Neuron",
+  "incorrect_answers":[  
+     "Sensory Neuron",
+     "Motor Neuron",
+     "Interneuron"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which of these is a type of stretch\/deep tendon reflex?",
+  "correct_answer":"Ankle jerk reflex",
+  "incorrect_answers":[  
+     "Gag reflex",
+     "Pupillary light reflex",
+     "Scratch reflex"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Human cells typically have how many copies of each gene?",
+  "correct_answer":"2",
+  "incorrect_answers":[  
+     "1",
+     "4",
+     "3"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"The medical term for the belly button is which of the following?",
+  "correct_answer":"Umbilicus",
+  "incorrect_answers":[  
+     "Nevus",
+     "Nares",
+     "Paxillus"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"What is the molecular formula of Ozone?",
+  "correct_answer":"O3",
+  "incorrect_answers":[  
+     "C6H2O6",
+     "N2O",
+     "SO4"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which element has the highest melting point?",
+  "correct_answer":"Carbon",
+  "incorrect_answers":[  
+     "Tungsten",
+     "Platinum",
+     "Osmium"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"Which of these is a stop codon in DNA?",
+  "correct_answer":"TAA",
+  "incorrect_answers":[  
+     "ACT",
+     "ACA",
+     "GTA"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Deuterium is an isotope of which element?",
+  "correct_answer":"Hydrogen",
+  "incorrect_answers":[  
+     "Nitrogen",
+     "Helium",
+     "Neon"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"What element on the periodic table has 92 electrons?",
+  "correct_answer":"Uranium",
+  "incorrect_answers":[  
+     "Sulfur",
+     "Hydrogen",
+     "Iron"
+  ]
+},
+{  
+  "category":"Science & Nature",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"What does the term &quot;isolation&quot; refer to in microbiology?",
+  "correct_answer":"The separation of a strain from a natural, mixed population of living microbes",
+  "incorrect_answers":[  
+     "A lack of nutrition in microenviroments",
+     "The nitrogen level in soil",
+     "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What European country is not a part of the EU?",
+  "correct_answer":"Norway",
+  "incorrect_answers":[  
+     "Lithuania",
+     "Ireland",
+     "Czechia"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"What country is the second largest in the world by area?",
+  "correct_answer":"Canada",
+  "incorrect_answers":[  
+     "Russia",
+     "China",
+     "United States of America"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What is the largest non-continental island in the world?",
+  "correct_answer":"Greenland",
+  "incorrect_answers":[  
+     "New Guinea",
+     "Borneo",
+     "Madagascar"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"What is the capital of Jamaica?",
+  "correct_answer":"Kingston",
+  "incorrect_answers":[  
+     "San Juan",
+     "Port-au-Prince",
+     "Bridgetown"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which is the largest city in Morocco?",
+  "correct_answer":"Casablanca",
+  "incorrect_answers":[  
+     "Rabat",
+     "Fes",
+     "Sale"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"In which English county is Stonehenge?",
+  "correct_answer":"Wiltshire",
+  "incorrect_answers":[  
+     "Somerset",
+     "Cumbria",
+     "Herefordshire"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"The following Spanish provinces are located in the northern area of Spain except:",
+  "correct_answer":"Murcia",
+  "incorrect_answers":[  
+     "Asturias",
+     "Navarre",
+     "Le&oacute;n"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+  "correct_answer":"Ohio",
+  "incorrect_answers":[  
+     "Florida",
+     "Idaho",
+     "New Mexico"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Where is Earth&#039;s South Magnetic Pole?",
+  "correct_answer":"The North Pole",
+  "incorrect_answers":[  
+     "The South Pole",
+     "The Tropic of Cancer",
+     "The Equator"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"Which is the largest freshwater lake in the world?",
+  "correct_answer":"Lake Superior ",
+  "incorrect_answers":[  
+     "Caspian Sea",
+     "Lake Michigan",
+     "Lake Huron"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"The Hunua Ranges is located in...",
+  "correct_answer":"New Zealand",
+  "incorrect_answers":[  
+     "Nepal",
+     "China",
+     "Mexico"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"Which country was NOT formerly part of Yugoslavia?",
+  "correct_answer":"Albania",
+  "incorrect_answers":[  
+     "Croatia",
+     "Serbia",
+     "Macedonia"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What is the official language of Bhutan?",
+  "correct_answer":"Dzongkha",
+  "incorrect_answers":[  
+     "Ladakhi",
+     "Karen",
+     "Groma"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"What is the official German name of the Swiss Federal Railways?",
+  "correct_answer":"Schweizerische Bundesbahnen",
+  "incorrect_answers":[  
+     "Schweizerische Nationalbahnen",
+     "Bundesbahnen der Schweiz",
+     "Schweizerische Staatsbahnen"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What is the busiest port in Europe?",
+  "correct_answer":"Port of Rotterdam",
+  "incorrect_answers":[  
+     "Port of Antwerp",
+     "Port of Hamburg",
+     "Port of Amsterdam"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+  "correct_answer":"Niagara Falls",
+  "incorrect_answers":[  
+     "Whistler, British Columbia",
+     "Disney World",
+     "Yosemite National Park"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"How many countries does Mexico border?",
+  "correct_answer":"3",
+  "incorrect_answers":[  
+     "2",
+     "4",
+     "1"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What continent is the country Lesotho in?",
+  "correct_answer":"Africa",
+  "incorrect_answers":[  
+     "Asia",
+     "South America",
+     "Europe"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What is the capital of Lithuania?",
+  "correct_answer":"Vilnius",
+  "incorrect_answers":[  
+     "Tallinn",
+     "Helsinki",
+     "Riga"
+  ]
+},
+{  
+  "category":"Geography",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which country was NOT part of the Soviet Union?",
+  "correct_answer":"Romania",
+  "incorrect_answers":[  
+     "Turkmenistan",
+     "Belarus",
+     "Tajikistan"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which of the following sports is not part of the triathlon?",
+  "correct_answer":"Horse-Riding",
+  "incorrect_answers":[  
+     "Cycling",
+     "Swimming",
+     "Running"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+  "correct_answer":"Hammer",
+  "incorrect_answers":[  
+     "Wrench",
+     "Drill",
+     "Screwdriver"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What is the nickname of Northampton town&#039;s rugby union club?",
+  "correct_answer":"Saints",
+  "incorrect_answers":[  
+     "Harlequins",
+     "Saracens",
+     "Wasps"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which English football club has the nickname &#039;The Foxes&#039;?",
+  "correct_answer":"Leicester City",
+  "incorrect_answers":[  
+     "Northampton Town",
+     "Bradford City",
+     "West Bromwich Albion"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"In what sport is a &quot;shuttlecock&quot; used?",
+  "correct_answer":"Badminton",
+  "incorrect_answers":[  
+     "Table Tennis",
+     "Rugby",
+     "Cricket"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"A stimpmeter measures the speed of a ball over what surface?",
+  "correct_answer":"Golf Putting Green",
+  "incorrect_answers":[  
+     " Football Pitch",
+     "Cricket Outfield",
+     "Pinball Table"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+  "correct_answer":"Alain Prost",
+  "incorrect_answers":[  
+     "Ayrton Senna",
+     "Niki Lauda",
+     "Emerson Fittipaldi"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which nation hosted the FIFA World Cup in 2006?",
+  "correct_answer":"Germany",
+  "incorrect_answers":[  
+     "United Kingdom",
+     "Brazil",
+     "South Africa"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which country will host the 2020 Summer Olympics?",
+  "correct_answer":"Japan",
+  "incorrect_answers":[  
+     "China",
+     "Australia",
+     "Germany"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which country is hosting the 2022 FIFA World Cup?",
+  "correct_answer":"Qatar",
+  "incorrect_answers":[  
+     "Uganda",
+     "Vietnam",
+     "Bolivia"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Josh Mansour is part of what NRL team?",
+  "correct_answer":"Penrith Panthers",
+  "incorrect_answers":[  
+     "Melbourne Storm",
+     "Sydney Roosters",
+     "North Queensland Cowboys"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"hard",
+  "question":"Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+  "correct_answer":"DING Ning (China)",
+  "incorrect_answers":[  
+     "LI Xiaoxia (China)",
+     "Ai FUKUHARA (Japan)",
+     "Song KIM (North Korea)"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What national team won the 2016 edition of UEFA European Championship?",
+  "correct_answer":"Portugal",
+  "incorrect_answers":[  
+     "France",
+     "Germany",
+     "England"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+  "correct_answer":"Quebec City",
+  "incorrect_answers":[  
+     "Houston",
+     "Montreal",
+     "New York"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"What is the oldest team in Major League Baseball?",
+  "correct_answer":"Atlanta Braves",
+  "incorrect_answers":[  
+     "Chicago Cubs",
+     "Cincinnati Reds",
+     "St. Louis Cardinals"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+  "correct_answer":"Jules Bianchi",
+  "incorrect_answers":[  
+     "Ayrton Senna",
+     "Ronald Ratzenberger",
+     "Gilles Villeneuve"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"easy",
+  "question":"This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+  "correct_answer":"Don Cherry",
+  "incorrect_answers":[  
+     "Don McKellar",
+     "Don Taylor ",
+     "Donald Sutherland"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Who won the 2015 College Football Playoff (CFP) National Championship? ",
+  "correct_answer":"Ohio State Buckeyes",
+  "incorrect_answers":[  
+     "Alabama Crimson Tide",
+     "Clemson Tigers",
+     "Wisconsin Badgers"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+  "correct_answer":"American Football",
+  "incorrect_answers":[  
+     "Wrestling",
+     "Archery",
+     "Horse-Racing"
+  ]
+},
+{  
+  "category":"Sports",
+  "type":"multiple",
+  "difficulty":"medium",
+  "question":"Which car manufacturer won the 2017 24 Hours of Le Mans?",
+  "correct_answer":"Porsche",
+  "incorrect_answers":[  
+     "Toyota",
+     "Audi",
+     "Chevrolet"
+  ]
+}
+]
