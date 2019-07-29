@@ -3,7 +3,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"hard",
-    "question":"What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+    "question":"What type of dog is 'Handsome Dan', the mascot of Yale University?",
     "correct_answer":"Bulldog",
     "incorrect_answers":[  
         "Yorkshire Terrier",
@@ -15,7 +15,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"easy",
-    "question":"Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+    "question":"Where is the train station 'Llanfair-pwllgwyngyll-gogery-chwyrn-drobwll-llan-tysilio-gogo-goch'?",
     "correct_answer":"Wales",
     "incorrect_answers":[  
         "Moldova",
@@ -51,7 +51,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+    "question":"What does the 'G' mean in 'G-Man'?",
     "correct_answer":"Government",
     "incorrect_answers":[  
         "Going",
@@ -63,7 +63,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"hard",
-    "question":"The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+    "question":"The words 'bungalow' and 'shampoo' originate from the languages of which country?",
     "correct_answer":"India",
     "incorrect_answers":[  
         "Papua New Guinea",
@@ -75,7 +75,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"What is a &quot;dakimakura&quot;?",
+    "question":"What is a 'dakimakura'?",
     "correct_answer":"A body pillow",
     "incorrect_answers":[  
         "A Chinese meal, essentially composed of fish",
@@ -111,7 +111,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+    "question":"Which of these is the name of a Japanese system of alternative medicine, literally meaning 'finger pressure'?",
     "correct_answer":"Shiatsu",
     "incorrect_answers":[  
         "Ukiyo",
@@ -123,24 +123,24 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"What is the German word for &quot;spoon&quot;?",
-    "correct_answer":"L&ouml;ffel",
+    "question":"What is the German word for 'spoon'?",
+    "correct_answer":"Loffel",
     "incorrect_answers":[  
         "Gabel",
         "Messer",
-        "Essst&auml;bchen"
+        "Essstabchen"
     ]
   },
   {  
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"What is the romanized Russian word for &quot;winter&quot;?",
+    "question":"What is the romanized Russian word for 'winter'?",
     "correct_answer":"Zima",
     "incorrect_answers":[  
         "Leto",
         "Vesna",
-        "Osen&#039;"
+        "Osen'"
     ]
   },
   {  
@@ -183,12 +183,12 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"What was Mountain Dew&#039;s original slogan?",
-    "correct_answer":"Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+    "question":"What was Mountain Dew's original slogan?",
+    "correct_answer":"Yahoo! Mountain Dew... It'll tickle your innards!",
     "incorrect_answers":[  
         "Give Me A Dew",
         "Do The Dew",
-        "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+        "Get' that barefoot feelin' drinkin' Mountain Dew"
     ]
   },
   {  
@@ -219,7 +219,7 @@
     "category":"General Knowledge",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"Which of these words means &quot;idle spectator&quot;?",
+    "question":"Which of these words means 'idle spectator'?",
     "correct_answer":"Gongoozler",
     "incorrect_answers":[  
         "Gossypiboma",
@@ -234,7 +234,7 @@
     "question":"Which candy is NOT made by Mars?",
     "correct_answer":"Almond Joy",
     "incorrect_answers":[  
-        "M&amp;M&#039;s",
+        "M&M's",
         "Twix",
         "Snickers"
     ]
@@ -263,11 +263,11 @@
        "Impressionism"
     ]
  },
- {  
+ {
     "category":"Art",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+    "question":"Which time signature is commonly known as 'Cut Time?'",
     "correct_answer":"2\/2",
     "incorrect_answers":[  
        "4\/4",
@@ -292,9 +292,9 @@
     "type":"multiple",
     "difficulty":"hard",
     "question":"What French sculptor designed the Statue of Liberty? ",
-    "correct_answer":"Fr&eacute;d&eacute;ric Auguste Bartholdi",
+    "correct_answer":"Frederic Auguste Bartholdi",
     "incorrect_answers":[  
-       "Jean-L&eacute;on G&eacute;r&ocirc;me",
+       "Jean-Leon Gerome",
        "Auguste Rodin",
        "Henri Matisse"
     ]
@@ -303,7 +303,7 @@
     "category":"Art",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+    "question":"Which artist's studio was known as 'The Factory'?",
     "correct_answer":"Andy Warhol",
     "incorrect_answers":[  
        "Roy Lichtenstein",
@@ -327,8 +327,8 @@
     "category":"Art",
     "type":"multiple",
     "difficulty":"hard",
-    "question":"Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
-    "correct_answer":"N&uuml;rnberg",
+    "question":"Albrecht Durer's birthplace and place of death were in...",
+    "correct_answer":"Nurnberg",
     "incorrect_answers":[  
        "Augsburg",
        "Bamberg",
@@ -339,7 +339,7 @@
     "category":"Art",
     "type":"multiple",
     "difficulty":"hard",
-    "question":"What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+    "question":"What year did Albrecht Durer create the painting 'The Young Hare'?",
     "correct_answer":"1502",
     "incorrect_answers":[  
        "1702",
@@ -363,7 +363,7 @@
     "category":"Art",
     "type":"multiple",
     "difficulty":"easy",
-    "question":"Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+    "question":"Who painted 'Swans Reflecting Elephants', 'Sleep', and 'The Persistence of Memory'?",
     "correct_answer":"Salvador Dali",
     "incorrect_answers":[  
        "Jackson Pollock",
@@ -399,10 +399,10 @@
     "category":"Art",
     "type":"multiple",
     "difficulty":"medium",
-    "question":"Which artist&#039;s style was to use small different colored dots to create a picture?",
+    "question":"Which artist's style was to use small different colored dots to create a picture?",
     "correct_answer":"Georges Seurat",
     "incorrect_answers":[  
-       "Paul C&eacute;zanne",
+       "Paul Cezanne",
        "Vincent Van Gogh",
        "Henri Rousseau"
     ]
@@ -423,7 +423,7 @@
     "category":"Art",
     "type":"multiple",
     "difficulty":"hard",
-    "question":"How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+    "question":"How many paint and pastel versions of 'The Scream' is Norwegian painter Edvard Munch believed to have produced?",
     "correct_answer":"4",
     "incorrect_answers":[  
        "1",
@@ -459,7 +459,7 @@
   "category":"Science & Nature",
   "type":"multiple",
   "difficulty":"easy",
-  "question":"Which element has the chemical symbol &#039;Fe&#039;?",
+  "question":"Which element has the chemical symbol 'Fe'?",
   "correct_answer":"Iron",
   "incorrect_answers":[  
      "Gold",
@@ -567,7 +567,7 @@
   "category":"Science & Nature",
   "type":"multiple",
   "difficulty":"medium",
-  "question":"Where did the dog breed &quot;Chihuahua&quot; originate?",
+  "question":"Where did the dog breed 'Chihuahua' originate?",
   "correct_answer":"Mexico",
   "incorrect_answers":[  
      "France",
@@ -687,7 +687,7 @@
   "category":"Science & Nature",
   "type":"multiple",
   "difficulty":"hard",
-  "question":"What does the term &quot;isolation&quot; refer to in microbiology?",
+  "question":"What does the term 'isolation' refer to in microbiology?",
   "correct_answer":"The separation of a strain from a natural, mixed population of living microbes",
   "incorrect_answers":[  
      "A lack of nutrition in microenviroments",
@@ -776,7 +776,7 @@
   "incorrect_answers":[  
      "Asturias",
      "Navarre",
-     "Le&oacute;n"
+     "Leon"
   ]
 },
 {  
@@ -795,7 +795,7 @@
   "category":"Geography",
   "type":"multiple",
   "difficulty":"medium",
-  "question":"Where is Earth&#039;s South Magnetic Pole?",
+  "question":"Where is Earth's South Magnetic Pole?",
   "correct_answer":"The North Pole",
   "incorrect_answers":[  
      "The South Pole",
@@ -879,7 +879,7 @@
   "category":"Geography",
   "type":"multiple",
   "difficulty":"hard",
-  "question":"What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+  "question":"What North American tourist attraction is served by the 'Maid of the Mist' tour company?",
   "correct_answer":"Niagara Falls",
   "incorrect_answers":[  
      "Whistler, British Columbia",
@@ -951,7 +951,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"hard",
-  "question":"What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+  "question":"What tool lends it's name to a last-stone advantage in an end in Curling?",
   "correct_answer":"Hammer",
   "incorrect_answers":[  
      "Wrench",
@@ -963,7 +963,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"medium",
-  "question":"What is the nickname of Northampton town&#039;s rugby union club?",
+  "question":"What is the nickname of Northampton town's rugby union club?",
   "correct_answer":"Saints",
   "incorrect_answers":[  
      "Harlequins",
@@ -975,7 +975,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"easy",
-  "question":"Which English football club has the nickname &#039;The Foxes&#039;?",
+  "question":"Which English football club has the nickname 'The Foxes'?",
   "correct_answer":"Leicester City",
   "incorrect_answers":[  
      "Northampton Town",
@@ -987,7 +987,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"easy",
-  "question":"In what sport is a &quot;shuttlecock&quot; used?",
+  "question":"In what sport is a 'shuttlecock' used?",
   "correct_answer":"Badminton",
   "incorrect_answers":[  
      "Table Tennis",
@@ -1011,7 +1011,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"medium",
-  "question":"Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+  "question":"Which Formula One driver was nicknamed 'The Professor'?",
   "correct_answer":"Alain Prost",
   "incorrect_answers":[  
      "Ayrton Senna",
@@ -1095,7 +1095,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"easy",
-  "question":"Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+  "question":"Which city did the former NHL team 'The Nordiques' originiate from?",
   "correct_answer":"Quebec City",
   "incorrect_answers":[  
      "Houston",
@@ -1131,7 +1131,7 @@
   "category":"Sports",
   "type":"multiple",
   "difficulty":"easy",
-  "question":"This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+  "question":"This Canadian television sportscaster is known for his 'Hockey Night in Canada' role, a commentary show during hockey games.",
   "correct_answer":"Don Cherry",
   "incorrect_answers":[  
      "Don McKellar",
