@@ -1,4 +1,4 @@
-# trivia
+# Trivia Vue demo
 
 ## Project setup
 ```
